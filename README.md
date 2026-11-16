@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Aisha Issa 👋
 
-<!--
-**aisha593/aisha593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Developer based in Dar es Salaam, Tanzania, specializing in building **Enterprise Resource Planning (ERP)** platforms, scalable web applications, and cross-platform mobile apps.
 
-Here are some ideas to get you started:
+#### 🛠 Tech Stack
+- **Backend & Enterprise:** PHP, Laravel, Filament PHP, Livewire, RESTful APIs
+- **Frontend & Mobile:** Tailwind CSS, Bootstrap, JavaScript, React, Flutter (Riverpod)
+- **Database & Architecture:** MySQL, Multi-Tenancy, Role-Based Access Control (RBAC), Database Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Featured Work
+- **Enterprise ERP System:** Multi-module platform covering Procure-to-Pay (P2P), accounting, inventory tracking, HR & payroll, fixed assets, and financial reporting.
+- **Multi-Tenant Inventory System:** Admin panel with company switching, stock analytics, and automated Excel exports.
+- **Visitor Management System:** Automated check-in workflow with dynamic QR code badges and printable PDF passes.
+
+#### 🔗 Connect With Me
+- **LinkedIn:** [linkedin.com/in/aisha593](https://www.linkedin.com/in/aisha593)
+- **Email:** aishaissa593@gmail.com
